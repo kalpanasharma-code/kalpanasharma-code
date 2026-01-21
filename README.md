@@ -1,5 +1,5 @@
 # 💫 About Me:
-improving my DSA problem-solving skills<br>I’m looking to collaborate on<br>Frontend web development projects and beginner-friendly open-source contributions<br><br>🙌 I’m looking for help with<br>Advanced JavaScript concepts and real-world project architecture<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, JavaScript, and modern web development<br><br>💬 Ask me about<br>HTML, CSS, JavaScript basics, Git, and frontend development<br><br>⚡ Fun fact<br>I enjoy turning simple ideas into clean, functional user interfaces ✨
+I am improving my DSA problem-solving skills<br>I’m looking to collaborate on<br>Frontend web development projects and beginner-friendly open-source contributions<br><br>🙌 I’m looking for help with<br>Advanced JavaScript concepts and real-world project architecture<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, JavaScript, and modern web development<br><br>💬 Ask me about<br>HTML, CSS, JavaScript basics, Git, and frontend development<br><br>⚡ Fun fact<br>I enjoy turning simple ideas into clean, functional user interfaces ✨
 
 
 ## 🌐 Socials:

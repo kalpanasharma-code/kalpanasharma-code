@@ -1,20 +1,153 @@
-# 💫 About Me:
-I am improving my DSA problem-solving skills<br>I’m looking to collaborate on<br>Frontend web development projects and beginner-friendly open-source contributions<br><br>🙌 I’m looking for help with<br>Advanced JavaScript concepts and real-world project architecture<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, JavaScript, and modern web development<br><br>💬 Ask me about<br>HTML, CSS, JavaScript basics, Git, and frontend development<br><br>⚡ Fun fact<br>I enjoy turning simple ideas into clean, functional user interfaces ✨
+# 👩‍💻 Kalpana Sharma
 
+Software Development Engineer (SDE) | Problem Solving | Systems-Oriented Thinking  
 
-## 🌐 Socials:
+I am a software developer with a strong focus on **problem solving, code quality, and engineering fundamentals**.  
+I approach development with an emphasis on **clarity, correctness, and scalability**, and I continuously work on strengthening my ability to design and implement reliable software solutions.
+
+My interests span **core programming, backend systems, and full-stack development**, with a clear goal of growing into a well-rounded Software Development Engineer.
+
+---
+
+## 🧠 Engineering Focus
+- Problem-solving using structured and logical approaches  
+- Writing clean, maintainable, and efficient code  
+- Understanding how software systems are designed and interact  
+- Applying best practices in version control and collaboration  
+- Translating requirements into reliable implementations  
+
+---
+
+## 🛠️ Technical Skill Set
+
+### Programming
+- C, C++
+- JavaScript (ES6+)
+
+### Application Development
+- React, Next.js
+- Node.js, Express.js
+- RESTful APIs
+
+### Data & Persistence
+- MongoDB
+- MySQL, PostgreSQL
+
+### Tools & Platforms
+- Git & GitHub
+- Vercel, Render
+- Google Cloud
+- Linux fundamentals
+
+---
+
+## 📚 Current Work
+- Strengthening software engineering fundamentals  
+- Building end-to-end applications with clean architecture  
+- Improving problem-solving depth and consistency  
+- Learning production-level development practices  
+
+---
+
+## 🤝 Open To
+- Software Development Engineer (SDE) roles  
+- Engineering internships and graduate roles  
+- Collaborative development and open-source contributions  
+- Code reviews and knowledge-driven teamwork  
+
+---
+
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpana-sharma-876795313/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanakvashisht219@gmail.com)
 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kalpanasharma-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kalpanasharma-code&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpanasharma-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalpanasharma-code&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.herokuapp.com/?user=kalpanasharma-code&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpanasharma-code&theme=dark&layout=compact&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kalpanasharma-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📈 *Focused on fundamentals. Consistent in execution. Growing as a software engineer.*
+
+[![](https://visitcount.itsvg.in/api?id=kalpanasharma-code&icon=0&color=0)](https://visitcount.itsvg.in)
+# 👩‍💻 Kalpana Sharma
+
+Software Development Engineer (SDE) | Problem Solving | Systems-Oriented Thinking  
+
+I am a software developer with a strong focus on **problem solving, code quality, and engineering fundamentals**.  
+I approach development with an emphasis on **clarity, correctness, and scalability**, and I continuously work on strengthening my ability to design and implement reliable software solutions.
+
+My interests span **core programming, backend systems, and full-stack development**, with a clear goal of growing into a well-rounded Software Development Engineer.
+
+---
+
+## 🧠 Engineering Focus
+- Problem-solving using structured and logical approaches  
+- Writing clean, maintainable, and efficient code  
+- Understanding how software systems are designed and interact  
+- Applying best practices in version control and collaboration  
+- Translating requirements into reliable implementations  
+
+---
+
+## 🛠️ Technical Skill Set
+
+### Programming
+- C, C++
+- JavaScript (ES6+)
+
+### Application Development
+- React, Next.js
+- Node.js, Express.js
+- RESTful APIs
+
+### Data & Persistence
+- MongoDB
+- MySQL, PostgreSQL
+
+### Tools & Platforms
+- Git & GitHub
+- Vercel, Render
+- Google Cloud
+- Linux fundamentals
+
+---
+
+## 📚 Current Work
+- Strengthening software engineering fundamentals  
+- Building end-to-end applications with clean architecture  
+- Improving problem-solving depth and consistency  
+- Learning production-level development practices  
+
+---
+
+## 🤝 Open To
+- Software Development Engineer (SDE) roles  
+- Engineering internships and graduate roles  
+- Collaborative development and open-source contributions  
+- Code reviews and knowledge-driven teamwork  
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpana-sharma-876795313/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanakvashisht219@gmail.com)
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalpanasharma-code&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.herokuapp.com/?user=kalpanasharma-code&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpanasharma-code&theme=dark&layout=compact&hide_border=false)
+
+---
+
+📈 *Focused on fundamentals. Consistent in execution. Growing as a software engineer.*
+
+[![](https://visitcount.itsvg.in/api?id=kalpanasharma-code&icon=0&color=0)](https://visitcount.itsvg.in)
+v
